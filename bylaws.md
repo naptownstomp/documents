@@ -67,7 +67,7 @@ as a replacement through a simple majority vote of the remaining Board members.
 
 ### Article 5. Officers and their duties
 
-**Section 1. The Executive Board shall consist of the following offices:
+**Section 1**. The Executive Board shall consist of the following offices:
     - a. President
     - b. Vice President, Director of Operations
     - c. Secretary
