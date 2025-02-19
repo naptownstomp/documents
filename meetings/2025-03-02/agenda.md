@@ -1,0 +1,3 @@
+- 5 mins - discuss proposal 1
+- 5 mins - discuss xyz
+- 30 mins - discuss changes to the website
