@@ -101,85 +101,85 @@ Executive Board, which is composed of seven members.
 ## By-Laws of Naptown Stomp
 
 ### Section 1. Duties of Officers
-    - A. President
-        - a. The duties of the President shall be as follows:
-            - i. Preside over all Executive Board and membership meetings.
-            - ii. Plan all meeting agendas.
-            - iii. Guide and coordinate Naptown Stomp activities.
-            - iv. Serve as the primary point of contact for customer service and act as the
+- A. President
+    - a. The duties of the President shall be as follows:
+        - i. Preside over all Executive Board and membership meetings.
+        - ii. Plan all meeting agendas.
+        - iii. Guide and coordinate Naptown Stomp activities.
+        - iv. Serve as the primary point of contact for customer service and act as the
 spokesperson of the organization.
-            - v. Manage long-term planning and project management of Naptown Stomp
+        - v. Manage long-term planning and project management of Naptown Stomp
 programs and initiatives.
-            - vi. Serve as a secondary signatory on financial accounts.
-        - b. The President shall be the final spokesperson for Naptown Stomp and, with the
+        - vi. Serve as a secondary signatory on financial accounts.
+    - b. The President shall be the final spokesperson for Naptown Stomp and, with the
 assistance of the Executive Board, sets the vision for the organization.
-    - B. Vice President, Director of Operations
-        - a. The duties of the VP, Director of Operations shall be as follows:
-            - i. Manage day-to-day/weekly operations of the organization, including scheduling
+- B. Vice President, Director of Operations
+    - a. The duties of the VP, Director of Operations shall be as follows:
+        - i. Manage day-to-day/weekly operations of the organization, including scheduling
 desk shifts for opening/closing weekly dances and lessons, maintaining
 appropriate inventory of supplies.
-            - ii. Schedule DJs for Naptown Stomp dances.
-            - iii. Serve as acting President at meetings if the President is temporarily unavailable,
+        - ii. Schedule DJs for Naptown Stomp dances.
+        - iii. Serve as acting President at meetings if the President is temporarily unavailable,
 or in the event of the resignation or removal of the President.
-            - iv. Manage the P.O. Box, in conjunction with Treasurer.
-    - C. Secretary
-        - a. The duties of the Secretary shall be as follows:
-            - i. Prepares and distributes meeting agenda.
-            - ii. Take and keep meeting minutes.
-            - iii. Maintain list of active Naptown Stomp members.
-            - iv. Serve as the primary contact for inquiries from board members and stakeholders
+        - iv. Manage the P.O. Box, in conjunction with Treasurer.
+- C. Secretary
+    - a. The duties of the Secretary shall be as follows:
+        - i. Prepares and distributes meeting agenda.
+        - ii. Take and keep meeting minutes.
+        - iii. Maintain list of active Naptown Stomp members.
+        - iv. Serve as the primary contact for inquiries from board members and stakeholders
 regarding members and membership.
-            - v. Maintain all Naptown Stomp paperwork and records, including but not limited
+        - v. Maintain all Naptown Stomp paperwork and records, including but not limited
 to, list of active Naptown Stomp members, monthly class/instructors, contracts,
 and waivers.
-            - vi. Draft and send regular email newsletters on behalf of Naptown Stomp.
-    - D. Treasurer
-        - a. The duties of the Treasurer shall be as follows:
-            - i. Manage financial matters, including balancing accounts, overseeing payouts, and
+        - vi. Draft and send regular email newsletters on behalf of Naptown Stomp.
+- D. Treasurer
+    - a. The duties of the Treasurer shall be as follows:
+        - i. Manage financial matters, including balancing accounts, overseeing payouts, and
 depositing funds..
-            - ii. Supervise the finances for all Naptown Stomp events, including workshops.
-            - iii. Advise on pricing schedules for events.
-            - iv. Submit necessary financial documentation to the tax accountant, federal and
+        - ii. Supervise the finances for all Naptown Stomp events, including workshops.
+        - iii. Advise on pricing schedules for events.
+        - iv. Submit necessary financial documentation to the tax accountant, federal and
 state tax payments, providing 1099 forms to contractors, and making estimated
 tax payments throughout the year.
-            - v. Record all income and expenditures in a timely manner.
-            - vi. Report finances regularly to the Executive Board.
-            - vii. Serve as primary signatory on financial accounts.
-            - viii. Track attendance for music licensing and submit annually.
-            - ix. Prepare the annual budget, present to the Executive Board for approval, ensure
+        - v. Record all income and expenditures in a timely manner.
+        - vi. Report finances regularly to the Executive Board.
+        - vii. Serve as primary signatory on financial accounts.
+        - viii. Track attendance for music licensing and submit annually.
+        - ix. Prepare the annual budget, present to the Executive Board for approval, ensure
 activities adhere to the budget; as well as forecast funds available throughout
 the year.
-    - E. Curriculum and Instructor Coordinator
-        - a. The duties of the Curriculum and Instructor Coordinator shall be as follows:
-            - i. Review curriculum, lesson structure, leveling, instructor training, and related
+- E. Curriculum and Instructor Coordinator
+    - a. The duties of the Curriculum and Instructor Coordinator shall be as follows:
+        - i. Review curriculum, lesson structure, leveling, instructor training, and related
 material. Propose modifications for board approval.
-            - ii. Schedule instructors for Naptown Stomp lessons, workshops, and Friday Night
+        - ii. Schedule instructors for Naptown Stomp lessons, workshops, and Friday Night
 Swing at Fountain Square Theatre.
-            - iii. Maintain roster of current Naptown Stomp instructors.
-            - iv. Serve as primary contact for new instructor applications.
-            - v. Manage private lesson referrals.
-            - vi. Hold instructor meetings/trainings at least once annually to discuss curriculum,
+        - iii. Maintain roster of current Naptown Stomp instructors.
+        - iv. Serve as primary contact for new instructor applications.
+        - v. Manage private lesson referrals.
+        - vi. Hold instructor meetings/trainings at least once annually to discuss curriculum,
 teaching practices, updates to lessons/structure, and other related business
 items.
-            - vii. Observe Naptown lessons to give individual feedback to instructors.
-        - b. An ideal candidate for this role will have a minimum of two years teaching experience
+        - vii. Observe Naptown lessons to give individual feedback to instructors.
+    - b. An ideal candidate for this role will have a minimum of two years teaching experience
 with Naptown Stomp.
-        - c. As circumstances permit, the Curriculum and Instructor Coordinator should avoid
+    - c. As circumstances permit, the Curriculum and Instructor Coordinator should avoid
 overscheduling themselves as an instructor.
-    - F. Digital Marketing Coordinator
-        - a. The duties of the Digital Marketing Coordinator shall be as follows:
-            - i. Promote activities of Naptown Stomp on a regular basis through social media
+- F. Digital Marketing Coordinator
+    - a. The duties of the Digital Marketing Coordinator shall be as follows:
+        - i. Promote activities of Naptown Stomp on a regular basis through social media
 platforms, as applicable.
-            - ii. Maintain and update Naptown Stomp’s website.
-            - iii. Create and/update promotional materials for Naptown Stomp.
-    - G. Community Engagement Coordinator
-        - a. The duties of the Community Engagement Coordinator shall be as follows:
-            - i. Promote engagement with Naptown Stomp both within the organization and in
+        - ii. Maintain and update Naptown Stomp’s website.
+        - iii. Create and/update promotional materials for Naptown Stomp.
+- G. Community Engagement Coordinator
+    - a. The duties of the Community Engagement Coordinator shall be as follows:
+        - i. Promote engagement with Naptown Stomp both within the organization and in
 the general community.
-            - ii. Assist President in managing and coordinating requests from third parties for
+        - ii. Assist President in managing and coordinating requests from third parties for
 private events, community engagement, and related tasks.
-            - iii. Coordinate community volunteers for external events, as needed.
-            - iv. Foster membership participation within Naptown Stomp.
+        - iii. Coordinate community volunteers for external events, as needed.
+        - iv. Foster membership participation within Naptown Stomp.
 
 ### Section 2. Stipends and Financial Benefits
 
